@@ -19,3 +19,10 @@ Un fichier execel d'exemple est donné dans ce repo qui m'a servi à trier les "
 ## Remarque
 
 Ce script nécessite l'installation de la bibliothèque Pandas version 1.3.3. Vous pouvez installer cette bibliothèque en exécutant `pip install pandas==1.3.3`.
+
+## Suivez-nous
+
+- [@breakingtechfr](https://twitter.com/BreakingTechFR) sur Twitter.
+- [Facebook](https://www.facebook.com/BreakingTechFr/) likez notre page.
+- [Instagram](https://www.instagram.com/breakingtechfr/) taguez nous sur vos publications !
+- [Discord](https://discord.gg/VYNVBhk) pour parler avec nous !
