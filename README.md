@@ -1,6 +1,9 @@
 # Tri de couleurs by BreakingTech
 
-Ce script Python utilise la bibliothèque tkinter pour créer une interface graphique permettant de trier et d'afficher par type de couleurs, des couleurs hexadecimales à partir d'un fichier Excel.
+Ce script Python permet de trier et d'afficher par type de couleurs, des couleurs hexadecimales à partir d'un fichier Excel.
+Je l'ai créé notamment pour trier des feutres de la marque "Ohuhu".
+Pour l'utiliser, il faut créer un fichie excel comportant 3 colonnes : Code (le code fabricant du feutre), Nom (nom de la couleur) et Couleur(la couleur hexadecimale du feutre).
+Un fichier execel d'exemple est donné dans ce repo qui m'a servi à trier les "Ohuhu Stylo Marqueur, 320 Couleurs Double Pointe", sous le nom : excel.xlsx
 
 ## Utilisation
 
@@ -14,4 +17,3 @@ Ce script Python utilise la bibliothèque tkinter pour créer une interface grap
 ## Remarque
 
 Ce script nécessite l'installation de la bibliothèque Pandas version 1.3.3. Vous pouvez installer cette bibliothèque en exécutant `pip install pandas==1.3.3`.
-Un fichier execel d'exemple est donné dans ce repo sous le nom : excel.xlsx
