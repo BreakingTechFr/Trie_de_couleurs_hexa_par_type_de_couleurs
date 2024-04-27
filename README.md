@@ -1,4 +1,4 @@
-# Tri de couleurs by BreakingTech
+# Trie de couleurs hexa par type de couleurs
 
 Ce script Python permet de trier et d'afficher par type de couleurs, des couleurs hexadecimales à partir d'un fichier Excel.
 Je l'ai créé notamment pour trier des feutres de la marque "Ohuhu".
