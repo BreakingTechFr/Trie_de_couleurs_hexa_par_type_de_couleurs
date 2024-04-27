@@ -100,7 +100,7 @@ def sort_colors(colors):
         'Bleu': [],
         'Violet': [],
         'Rose': [],
-        'Nuances de Gris': [],
+        'Gris': [],
     }
 
     for color in colors:
@@ -125,7 +125,7 @@ def sort_colors(colors):
             categories['Rose'].append(color)
 
         if 2 <= sat <= 7:
-            categories['Nuances de Gris'].append(color)
+            categories['Gris'].append(color)
 
     for category, color_group in categories.items():
         # Triez d'abord par luminosité, puis par teinte pour les couleurs de même luminosité
@@ -495,7 +495,7 @@ def main():
     global root, file_path, export_button, hue_button, rgb_button, button_frame, saturation_button, code_nom_button
 
     root = tk.Tk()
-    root.title("Tri de couleurs by BreakingTech")
+    root.title("Tri de couleurs Hexa par type de couleurs by BreakingTech")
 
     set_main_window_size() 
 
