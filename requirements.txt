@@ -1,2 +1,2 @@
-tk
+tkinter
 pandas==1.3.3
