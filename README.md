@@ -9,8 +9,14 @@ Un fichier execel d'exemple est donné dans ce repo qui m'a servi à trier les "
 
 ## Utilisation
 
-1. Assurez-vous d'avoir installé les dépendances requises en exécutant `pip install -r requirements.txt`.
-2. Exécutez le script en exécutant la commande `python script.py`.
+1. Assurez-vous d'avoir installé les dépendances requises en exécutant :
+```shell
+pip install -r requirements.txt
+```
+2. Exécutez le script en exécutant la commande :
+```shell
+python script.py
+```
 3. Cliquez sur le bouton "Import Excel" pour sélectionner un fichier Excel contenant les données de couleur.
 4. Les couleurs seront triées et affichées dans l'interface graphique.
 5. Vous pouvez également choisir d'afficher les informations supplémentaires telles que le HUE, le RGB et le pourcentage de saturation en cliquant sur les boutons correspondants.
