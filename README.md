@@ -24,7 +24,7 @@ python script.py
 
 ## Remarque
 
-Ce script nécessite l'installation de la bibliothèque Pandas version 1.3.3. Vous pouvez installer cette bibliothèque en exécutant `pip install pandas==1.3.3`.
+Ce script nécessite l'installation de la bibliothèque Pandas version 1.3.3.
 
 ## Suivez-nous
 
